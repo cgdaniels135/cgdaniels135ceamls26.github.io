@@ -12,7 +12,7 @@ quick_facts:
   - "📍 Based in Randallstown, MD"
   - "💪🏾 I like going to the gym"
 
-linkedin: https://www.linkedin.com/in/example
+linkedin: https://www.linkedin.com/in/christopher-daniels-3147b931a/
 image: assets/images/IMG_1862 (1).jpeg
 
 # A "Currently" block — three short status lines for the home page.
