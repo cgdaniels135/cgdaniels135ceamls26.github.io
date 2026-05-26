@@ -2,9 +2,9 @@
 layout: home
 title: Home
 display_name: Christopher Daniels                  # <- shown as the big display name on the hero
-description: My CEAMLS SAIRI Summer Research Site
+description: CEAMLS SAIRI Summer Research
 
-motto: "Curious about how research can shape better tools for everyday life."
+motto: "I have the answers to the test; I gotta see the questions first."
 
 quick_facts:
   - "🎓 Junior, Electrical Engineering"
