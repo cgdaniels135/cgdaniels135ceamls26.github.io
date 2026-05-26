@@ -13,7 +13,7 @@ quick_facts:
   - "💪🏾 I like going to the gym"
 
 linkedin: https://www.linkedin.com/in/example
-image: /assets/images/profile.svg
+image: assets/images/IMG_1862 (1).jpeg
 
 # A "Currently" block — three short status lines for the home page.
 currently:
