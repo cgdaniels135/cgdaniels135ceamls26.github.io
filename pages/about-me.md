@@ -6,7 +6,7 @@ permalink: /about-me.html
 about:
   name: Christopher Daniels
   role: Junior, Electrical Engineering
-  image: 
+  image: assets/images/IMG_1862 (1).jpeg
   linkedin: https://www.linkedin.com/in/example
   bio: |
     Hi! I'm Chris, a Computer Science student in the CEAMLS SAIRI Summer Research program.
