@@ -6,7 +6,7 @@ permalink: /about-my-mentor.html
 graduate_mentor:
   name: Amara Eze
   title: PhD Candidate, Mathematics
-  image: /assets/images/graduate-student-mentor.svg
+  image: assets/images/Amara Eze.jpg
   website: https://www.linkedin.com/in/amara-eze-569b59259/
   bio: |
     Amara is a PhD candidate working on adaptive systems and embedded machine learning.
