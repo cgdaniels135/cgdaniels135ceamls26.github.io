@@ -20,7 +20,7 @@ graduate_mentor:
 faculty_mentor:
   name: Dr. Olaniyi Iyiola
   title: Associate Professor, Mathematics
-  image: /assets/images/faculty-mentor.svg
+  image: assets/images/Dr Iyiola.jpg
   website: https://www.linkedin.com/in/olaniyi-iyiola-phd-math-mba-business-analytics-89073455/
   bio: |
     Dr. Iyiola leads a research group focused on human-centered computing and
