@@ -4,28 +4,29 @@ title: About My Mentors
 permalink: /about-my-mentor.html
 
 graduate_mentor:
-  name: Alex Morgan
-  title: PhD Candidate, Computer Engineering
+  name: Amara Eze
+  title: PhD Candidate, Mathematics
   image: /assets/images/graduate-student-mentor.svg
-  website: https://example.com/alex-morgan
+  website: https://www.linkedin.com/in/amara-eze-569b59259/
   bio: |
-    Alex is a PhD candidate working on adaptive systems and embedded machine learning.
+    Amara is a PhD candidate working on adaptive systems and embedded machine learning.
     They've been an incredible mentor — patient with my questions and great at helping
     me connect ideas across disciplines.
 
-    Outside of research, Alex organizes weekly reading groups and is a strong advocate
-    for undergraduate research participation.
+    Outside of research, Amara loves to go to the gym, braid her hair, and listen to music.
+    Additionally, she also loves to sing in her free time because she was a part of a chior 
+    growing up.
 
 faculty_mentor:
-  name: Dr. Pat Nguyen
-  title: Associate Professor, School of Engineering
+  name: Dr. Olaniyi Iyiola
+  title: Associate Professor, Mathematics
   image: /assets/images/faculty-mentor.svg
-  website: https://example.com/pat-nguyen
+  website: https://www.linkedin.com/in/olaniyi-iyiola-phd-math-mba-business-analytics-89073455/
   bio: |
-    Dr. Nguyen leads a research group focused on human-centered computing and
+    Dr. Iyiola leads a research group focused on human-centered computing and
     accessibility. Their guidance has helped me sharpen my research questions and
     think more carefully about real-world impact.
 
-    Dr. Nguyen has mentored many SAIRI students and is a champion for broadening
-    participation in computing.
+    Dr. Iyiola has a passion of to get students to enojoy the process of learning math. He loves
+    to break down the process to where it can be enjoyable.
 ---
