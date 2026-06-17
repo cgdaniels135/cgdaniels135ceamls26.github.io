@@ -31,8 +31,8 @@ about:
   gallery:
     - image: assets/images/IMG_7773.jpeg
       caption: After a great lift in the gym.
-    - image: /assets/images/gallery-2.svg
-      caption: One of my recent illustrations.
+    - image: assets/images/IMG_7427.jpeg
+      caption: Fastest 5k time ever.
     - image: /assets/images/gallery-3.svg
       caption: Hanging out with friends after class.
 ---
