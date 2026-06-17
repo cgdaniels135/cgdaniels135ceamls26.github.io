@@ -29,8 +29,8 @@ about:
       description: When I'm free, I like to relax and play video games.
 
   gallery:
-    - image: /assets/images/gallery-1.svg
-      caption: A great day on the trail.
+    - image: assets/images/IMG_7773.jpeg
+      caption: After a great lift in the gym.
     - image: /assets/images/gallery-2.svg
       caption: One of my recent illustrations.
     - image: /assets/images/gallery-3.svg
