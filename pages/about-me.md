@@ -33,6 +33,6 @@ about:
       caption: After a great lift in the gym.
     - image: assets/images/IMG_7427.jpeg
       caption: Fastest 5k time ever.
-    - image: /assets/images/gallery-3.svg
-      caption: Hanging out with friends after class.
+    - image: assets/images/mlb the show.jpg
+      caption: My favorite video game at the moment.
 ---
