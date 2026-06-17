@@ -3,7 +3,7 @@ layout: project
 title: About My Project
 permalink: /about-my-project.html
 
-subtitle: Human-Computer Interaction & Adaptive Systems
+subtitle: Predicting Respiratory Health Risks Using Urban Environmental Data
 project_title: "Optimization Driven Machine Learning Framework for Predicting Respiratory Health Risks Using Urban Environmental Data: Baltimore as a Case Study"
 
 problem: |
@@ -31,10 +31,10 @@ outcome: |
 final_report_url: https://example.com/your-report.pdf
 
 grad_mentor:
-  name: Alex Morgan
-  linkedin: https://www.linkedin.com/in/example
+  name: Amara Eze
+  linkedin: https://www.linkedin.com/in/amara-eze-569b59259/
 
 faculty_mentor:
-  name: Dr. Pat Nguyen
-  linkedin: https://www.linkedin.com/in/example
+  name: Dr. Olaniyi Iyiola
+  linkedin: https://www.linkedin.com/in/olaniyi-iyiola-phd-math-mba-business-analytics-89073455/
 ---
