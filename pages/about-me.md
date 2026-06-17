@@ -26,7 +26,7 @@ about:
       description: I go to the track to run to improve my cardiovascular fitness.
     - icon: 🎮
       title: Video Games
-      description: Sci-fi novels and design essays — both equally inspiring.
+      description: When I'm free, I like to relax and play video games.
 
   gallery:
     - image: /assets/images/gallery-1.svg
