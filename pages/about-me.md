@@ -9,24 +9,23 @@ about:
   image: assets/images/IMG_1862 (1).jpeg
   linkedin: https://www.linkedin.com/in/christopher-daniels-3147b931a/
   bio: |
-    Hi! I'm Chris, a Computer Science student in the CEAMLS SAIRI Summer Research program.
+    Hi! I'm Chris, an Electrical Engineering student in the CEAMLS SAIRI Summer Research program.
 
     My research interests sit at the intersection of human-computer interaction and applied
     machine learning. I'm especially curious about how everyday tools can be made more
     accessible and adaptive through smart software.
 
-    Outside of class, you'll find me biking trails, learning languages, or working on small
-    side projects with friends.
+    Outside of class, you'll find me going to the gym, running on the track, or playing video games with my friends.
 
   hobbies:
-    - icon: 🎨
-      title: Digital Art
-      description: I make small illustrations and pixel art in my spare time.
-    - icon: 🚲
-      title: Biking
-      description: Weekend trail rides are how I reset.
-    - icon: 📚
-      title: Reading
+    - icon: 💪🏾
+      title: Gym
+      description: I like to go to the gym at night at lift weights with my friends.
+    - icon: 🏃🏾‍♂️
+      title: Running
+      description: I go to the track to run to improve my cardiovascular fitness.
+    - icon: 🎮
+      title: Video Games
       description: Sci-fi novels and design essays — both equally inspiring.
 
   gallery:
