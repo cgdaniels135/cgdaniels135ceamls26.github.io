@@ -13,7 +13,7 @@ quick_facts:
   - "💪🏾 I like going to the gym"
 
 linkedin: https://www.linkedin.com/in/christopher-daniels-3147b931a/
-image: assets/images/IMG_1862 (1).jpeg
+image: assets/images/new professional headshot edited.png
 
 # A "Currently" block — three short status lines for the home page.
 currently:
